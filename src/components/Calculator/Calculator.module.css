@@ -1,0 +1,12 @@
+.main {
+    width: 330px;
+    height: 457px;
+    padding: 15px;
+    background: #183853;
+    border-radius: 5px;
+}
+
+.title {
+    font-size: 2rem;
+    color: rgb(5, 233, 214);
+}

@@ -1,0 +1,8 @@
+.button {
+    grid-area: var(--grid-area);
+    background: rgb(48, 89, 94);
+    box-shadow: rgb(5, 233, 214) 4px 4px;
+    padding: 12px 20px;
+    color: rgb(5, 233, 214);
+    border-radius: 5px;
+}

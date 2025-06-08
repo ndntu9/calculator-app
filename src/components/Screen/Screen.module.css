@@ -1,0 +1,18 @@
+.screen {
+    background: #10213a;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.fomular,
+.output {
+    height: 35px;
+    line-height: 35px;
+    font-size: 1.6rem;
+    color: rgb(5, 233, 214);
+    font-weight: 700;
+}
+
+.output {
+    text-align: right;
+}
