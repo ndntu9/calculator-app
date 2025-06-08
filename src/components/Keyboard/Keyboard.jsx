@@ -1,5 +1,5 @@
 import Button from "../Button";
-import styles from "./keyboard.module.css";
+import styles from "./Keyboard.module.css";
 
 function Keyboard() {
     return (
